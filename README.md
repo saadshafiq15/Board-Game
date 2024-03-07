@@ -1,39 +1,33 @@
-# Project Title
+# The Big Picture - Mancala Game
 
-Mancala Game GUI
+Welcome to The Big Picture, an enhanced Mancala game that offers an engaging graphical user interface (GUI) and exciting features. In this project, I aim to provide an immersive experience by allowing users to choose between two popular Mancala games: Kalah and Ayo. My focus extends beyond gameplay, incorporating graphical elements and refining the existing codebase for improved object-oriented (OO) design.
 
-## Description
+## Features
 
-GUI version of the Mancala Game following all rules.
+1. **Graphical User Interface (GUI):** Immerse yourself in an interactive gaming experience with our visually appealing GUI, providing a user-friendly interface for seamless gameplay.
+
+2. **Game Selection:** Choose between two captivating Mancala variants - Kalah and Ayo. Each game brings its own unique challenges and strategies to the table, ensuring a diverse and entertaining experience.
+
+3. **Enhanced Gameplay:** I've added exciting features to elevate your gaming experience. Engage in strategic moves, experience improved graphics, and enjoy a more dynamic and enjoyable Mancala adventure.
+
+4. **Code Refactoring:** My commitment to excellence extends to the codebase. I've refactored existing code to enhance the overall OO design, ensuring a more maintainable and scalable foundation for future developments.
 
 ## Getting Started
 
-### Dependencies
+To start playing The Big Picture Mancala Game, follow these simple steps:
 
-* N/A
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your_username/The-Big-Picture-Mancala.git
 
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd The-Big-Picture-Mancala
 
-
-### Executing program
-
-* How to build and run the program
-* Step-by-step bullets
-```
-gradle build
-java -jar build/libs/TextUI.jar
-```
-* include the expected output
-GUI Popup
-
-
-## Limitations
-
-N/A 
-
-## Author Information
-
-Saad Shafiq sshafi03@uoguelph.ca 
-1228090
+3. **Run the Game:**
+    ```bash
+    gradle build
+    java -jar build/libs/TextUI.jar
 
 ## Development History
 Keep a log of what things you accomplish when.  You can use git's tagging feature to tag the versions or you can reference commits.
@@ -56,12 +50,6 @@ Keep a log of what things you accomplish when.  You can use git's tagging featur
     * See [commit change]() or See [release history]()
 * 0.1
     * Added files
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [simple-readme] (https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md)
 
 
 
