@@ -30,7 +30,7 @@ To start playing The Big Picture Mancala Game, follow these simple steps:
     java -jar build/libs/TextUI.jar
 
 ## Development History
-Keep a log of what things you accomplish when.  You can use git's tagging feature to tag the versions or you can reference commits.
+Keeping a log of what things I've accomplished and when. 
 * 0.6
     * Done testing and done GUI
 * 0.8
